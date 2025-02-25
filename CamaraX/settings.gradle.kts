@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CamaraX"
+rootProject.name = "Camarax"
 include(":app")
  
